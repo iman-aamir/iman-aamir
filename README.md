@@ -2,8 +2,10 @@
 
 Hello there! I'm Iman, a passionate data analyst with a knack for uncovering patterns and insights from vast amounts of data. With a background in both neuroscience and business analytics, I possess a unique combination of skills that allow me to understand complex data structures and deliver business-driven results.
 
-📍 **Location:** Ontario, Canada | Texas, United States 
+📍 **Location:** Ontario, Canada
+
 📧 **Email:** [imanaami@buffalo.edu](mailto:imanaami@buffalo.edu)  
+
 🔗 **LinkedIn:** [www.linkedin.com/in/iman-aamir](https://www.linkedin.com/in/iman-aamir)
 
 ---

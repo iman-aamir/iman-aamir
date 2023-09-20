@@ -4,7 +4,7 @@ Hello there! I'm Iman, a passionate data analyst with a knack for uncovering pat
 
 📍 **Location:** 28 Xavier Court, On  
 📧 **Email:** [imanaami@buffalo.edu](mailto:imanaami@buffalo.edu)  
-🔗 **LinkedIn:** [www.linkedin.com/in/iman-aamir-profile](https://www.linkedin.com/in/iman-aamir-profile)
+🔗 **LinkedIn:** [www.linkedin.com/in/iman-aamir-profile](https://www.linkedin.com/in/iman-aamir)
 
 ---
 
